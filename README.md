@@ -1,1 +1,2 @@
 # Aquanos
+Fish catching companion
