@@ -1,5 +1,5 @@
 # Aquanos
-Fish catching companion
+Smart fish catching companion
 - Developed a machine learning system using scikit-learn to predict fish school locations with 80%Python
 accuracy, leveraging environmental and geospatial datasets.
 - Engineered data pipelines with pandas for e?cient parsing, preprocessing, and integration of
